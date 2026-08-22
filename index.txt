@@ -1,1 +1,2 @@
-Hello from GitHub and Jenkins! 
+Hello from GitHub and Jenkins!
+This is the second version from GitHub.
